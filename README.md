@@ -18,4 +18,18 @@ The general goal is to load a series of financial transaction data into our data
 
 <img width="905" alt="Applying Machine Learning" src="https://github.com/user-attachments/assets/a38d1426-e4ec-4616-9917-36f09e953302">
 
+<img width="458" alt="Transaction Details" src="https://github.com/user-attachments/assets/4cef19a1-0428-4c93-be78-2a484385b06a">
+
+<img width="596" alt="Tool Page - 2" src="https://github.com/user-attachments/assets/8cb208cb-2589-4fa4-8213-d976888432d0">
+
+<img width="597" alt="Tool Data-2" src="https://github.com/user-attachments/assets/ba4188e1-6862-435f-accf-0cbe93912618">
+
+<img width="959" alt="Kepler Mapper" src="https://github.com/user-attachments/assets/21dc4441-6ce2-4f7d-92a8-a7d904261ef6">
+
+
+
+
+
+
+
 
